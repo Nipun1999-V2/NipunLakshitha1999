@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunlakshitha1999" alt="nipunlakshitha1999" /></a> </p>
 
-- 🔭 I’m currently working on **Java/Spring Boot projects**
+- 🔭 I’m currently working on **Java/Spring Boot projects & React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
